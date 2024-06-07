@@ -1,0 +1,5 @@
+[2024-06-07 15:14:11] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-06-07 15:14:11] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-06-07 15:14:11] [class-ss-fetch-urls-task.php:69] Total pages: 446; Pages remaining: 296
+[2024-06-07 15:14:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/foxy/wp-content/plugins/elementor/assets/js/alert.cbc2a0fee74ee3ed0419.bundle.min.js
+[2024-06-07 15:14:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 446

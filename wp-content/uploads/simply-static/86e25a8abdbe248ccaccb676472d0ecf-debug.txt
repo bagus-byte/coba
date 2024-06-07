@@ -1,0 +1,5 @@
+[2024-06-07 15:15:35] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-06-07 15:15:35] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-06-07 15:15:35] [class-ss-fetch-urls-task.php:69] Total pages: 469; Pages remaining: 23
+[2024-06-07 15:15:35] [class-ss-fetch-urls-task.php:72] URL: http://localhost/foxy/wp-content/uploads/2024/06/GATE-IO-1.png
+[2024-06-07 15:15:35] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 469

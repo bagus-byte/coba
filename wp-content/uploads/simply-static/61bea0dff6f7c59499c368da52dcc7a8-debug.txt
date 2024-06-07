@@ -1,0 +1,5 @@
+[2024-06-07 15:16:03] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-06-07 15:16:03] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-06-07 15:16:03] [class-ss-fetch-urls-task.php:69] Total pages: 482; Pages remaining: 4
+[2024-06-07 15:16:03] [class-ss-fetch-urls-task.php:72] URL: http://localhost/foxy/category/tak-berkategori/feed/
+[2024-06-07 15:16:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 482
